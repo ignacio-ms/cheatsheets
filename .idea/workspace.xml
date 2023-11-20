@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="293a45f4-76e2-4ade-9087-1f7224df27df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/writerside.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
+    <list default="true" id="293a45f4-76e2-4ade-9087-1f7224df27df" name="Changes" comment="GitHub Pages setup">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -97,11 +97,6 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Usuario/OneDrive/Nacho/cheatsheets",
     "settings.editor.selected.configurable": "preferences.externalDependencies"
-  },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-      "C:/Users/Usuario/OneDrive/Nacho/cheatsheets/Writerside/topics/Computer-Vision.md"
-    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -123,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GitHub Pages setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="GitHub Pages setup" />
   </component>
 </project>

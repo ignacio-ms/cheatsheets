@@ -16,22 +16,38 @@
             <a href="Bioinformatics.md" type="experiment" summary="Bioinformatics class notes">Bioinformatics</a>
         </spotlight>
 
-        <misc>
-            <cards>
-                <title>Projects</title>
-                <a href="Chest-X-Ray.md" summary="Deep Learning Classification and Localization of Common Thorax Diseases from hospital-scale Chest X-Ray Database using Convolutional Neural Netwoks"/>
-                <a href="Coin-Classifier.md" summary="Coin detector and classifier using Deep Learning"/>
-                <a href="Solar.md" summary="Computer vision appoach for solar detection and cloud classification and segmentation from images"/>
-            </cards>
+        <primary>
+            <title>Projects</title>
+            <a href="Chest-X-Ray.md" summary="Deep Learning Classification and Localization of Common Thorax Diseases from hospital-scale Chest X-Ray Database using Convolutional Neural Netwoks"/>
+            <a href="Coin-Classifier.md" summary="Coin detector and classifier using Deep Learning"/>
+            <a href="Solar.md" summary="Computer vision appoach for solar detection and cloud classification and segmentation from images"/>
+            <a href="Bachelor-thesis.md" summary="Bioinformatics approach for Transcriptomics: Integration of gene expression data based on RNA-seq with tissue localization."/>
+        </primary>
 
+        <secondary>
+
+        </secondary>
+        <misc>
             <links>
                 <group>
                     <title>Computer Science</title>
                     <a href="Computer-Vision-Menu.md"/>
+                    <a href="Genetic-Algorithms.md"/>
+                    <a href="Machine-Learning.md"/>
+                    <a href="Data-Mining.md"/>
+                    <a href="PCA.md"/>
+                    <a href="Reinforced-Learning.md"/>
+                    <a href="RoboGrip.md"/>
                 </group>
                 <group>
                     <title>Bioinformatics</title>
                     <a href="Structural-Bioinformatics.md"/>
+                    <a href="Sequence-Analysis.md"/>
+                    <a href="BigData.md"/>
+                    <a href="Algorithms-in-bioinformatics.md"/>
+                    <a href="Next-Generation-Sequencing.md"/>
+                    <a href="Molecular-Phylogenetics.md"/>
+                    <a href="Statistics-and-R.md"/>
                 </group>
             </links>
         </misc>

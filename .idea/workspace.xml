@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="293a45f4-76e2-4ade-9087-1f7224df27df" name="Changes" comment="Pages addition">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Cheatsheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/m.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/m.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Genetic-Algorithms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Genetic-Algorithms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Bachelor-thesis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Bachelor-thesis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Home.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Home.topic" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

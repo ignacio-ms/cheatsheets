@@ -41,7 +41,7 @@ Class notes for Genetic Algorithms
 
 ## Travellers problem resolution implementation
 
-[Source code](https://github.com/ignacio-ms/ml_cheatsheet/tree/master/Algoritmos%20Geneticos/Practica%20Final%20-%20AGen%C3%A9ticos)
+[Source code](https://github.com/ignacio-ms/ml_cheatsheet/tree/master/Algoritmos%20Geneticos/Practica%20Final%20-%20AGenéticos)
 
 Report:
 

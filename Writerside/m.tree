@@ -23,7 +23,9 @@
             </toc-element>
         </toc-element>
         <toc-element topic="Bioinformatics.md">
-            <toc-element topic="Statistics-and-R.md"/>
+            <toc-element topic="Statistics-and-R.md">
+                <toc-element topic="Cheatsheet.md"/>
+            </toc-element>
             <toc-element topic="Molecular-Phylogenetics.md"/>
             <toc-element topic="Next-Generation-Sequencing.md"/>
             <toc-element topic="Algorithms-in-bioinformatics.md"/>

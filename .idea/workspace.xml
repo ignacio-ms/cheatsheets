@@ -4,115 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="293a45f4-76e2-4ade-9087-1f7224df27df" name="Changes" comment="GitHub Pages setup">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/Informe_page-0017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0031.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/AG/temageneticos_page-0034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/DCNN-X-RAY_page-0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/DCNN-X-RAY_page-0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/DCNN-X-RAY_page-0003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/DCNN-X-RAY_page-0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/DCNN-X-RAY_page-0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/x-ray/Paper_pages-to-jpg-0020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Algorithms-in-bioinformatics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Bachelor-thesis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/BigData.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Bioinformatics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Chest-X-Ray.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Coin-Classifier.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Computer-Science.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Computer-Vision-Menu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Data-Mining.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Genetic-Algorithms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Home.topic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Machine-Learning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Molecular-Phylogenetics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Next-Generation-Sequencing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/PCA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Reinforced-Learning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/RoboGrip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Sequence-Analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Solar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Structural-Bioinformatics.md" afterDir="false" />
+    <list default="true" id="293a45f4-76e2-4ade-9087-1f7224df27df" name="Changes" comment="Pages addition">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Cheatsheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/c.list" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/c.list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/completion_procedure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/completion_procedure_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/convert_table_to_xml.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/convert_table_to_xml_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/new_topic_options.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/new_topic_options_dark.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/m.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/m.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Computer-Vision.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Computer-Vision.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Genetic-Algorithms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Genetic-Algorithms.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GitHub Pages setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="GitHub Pages setup" />
+    <MESSAGE value="Pages addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pages addition" />
   </component>
 </project>

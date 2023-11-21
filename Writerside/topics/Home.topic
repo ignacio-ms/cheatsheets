@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Home" id="Home">
+
+    <section-starting-page>
+        <title>Home</title>
+        <description>
+            Class notes
+        </description>
+
+        <spotlight>
+            <a href="Computer-Science.md" type="development" summary="Computer Science class notes">Computer Science</a>
+            <a href="Bioinformatics.md" type="experiment" summary="Bioinformatics class notes">Bioinformatics</a>
+        </spotlight>
+
+        <misc>
+            <cards>
+                <title>Projects</title>
+                <a href="Chest-X-Ray.md" summary="Deep Learning Classification and Localization of Common Thorax Diseases from hospital-scale Chest X-Ray Database using Convolutional Neural Netwoks"/>
+                <a href="Coin-Classifier.md" summary="Coin detector and classifier using Deep Learning"/>
+                <a href="Solar.md" summary="Computer vision appoach for solar detection and cloud classification and segmentation from images"/>
+            </cards>
+
+            <links>
+                <group>
+                    <title>Computer Science</title>
+                    <a href="Computer-Vision-Menu.md"/>
+                </group>
+                <group>
+                    <title>Bioinformatics</title>
+                    <a href="Structural-Bioinformatics.md"/>
+                </group>
+            </links>
+        </misc>
+    </section-starting-page>
+</topic>

@@ -1,4 +1,4 @@
-# Computer Vision
+# Cheatsheet
 
 ## Libraries {#lib}
 
@@ -34,6 +34,8 @@ def show_image(img, title = None):
 
 ## Intensity transformations {#intensity-transformations}
 
+Manual histogram calculation
+
 ````Python
 def calculaHistograma(img):
     """
@@ -48,6 +50,24 @@ def calculaHistograma(img):
             h[img[i,j]] += 1
             
     return h
+````
+
+Openvc approach
+
+````Python
+imagen = cv2.imread('images/radiografia.jpg', 0)
+h = cv2.calcHist([imagen], [0], None, [256], [0,256])
+````
+
+Apply the intensity transformation based on the histogram ecualization:
+
+````tex
+\sum_{i=0}^{a}h_p(i)
+````
+
+Where 
+````tex
+a=imagen[i,j] and h_p(i)
 ````
 
 ````Python
@@ -71,6 +91,8 @@ def ecualization(img, verbose = False):
     
     return img_ec
 ````
+
+Equalization based on the Probability Density Function (PDF)
 
 ````Python
 def ecualization_pdf(img, verbose = False):
@@ -245,6 +267,8 @@ def adaptative(img, Smax):
 
 # Canny edge detector {#canny}
 
+Filter to get rid of noise
+
 ````Python
 def convolution(img, H):
     """
@@ -265,8 +289,29 @@ def convolution(img, H):
             f_image[i-ap_f, j-ap_c] = np.sum( H * a_image[i-ap_f:i+ap_f+1, j-ap_c:j+ap_c+1] )
             
     return f_image
+````
 
+Border detection by gradient calculation.
 
+Convolution masks:
+
+m_g_x = [[-1, -2, -1], [0, 0, 0], [1, 2, 1]]
+
+m_g_y = [[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]]
+
+Magnitude image applying:
+
+````tex
+E(u,v)=\sqrt{I_x (u,v)^2+I_y (u,v)^2 }
+````
+
+And orientation image applying:
+
+````tex
+\Phi(u,v)=atan2(I_y (u,v),I_x (u,v))
+````
+
+````Python
 def gradient(img):
     """
     Calculates the Magnitude and Orientation of the gradient of a given image
@@ -283,8 +328,11 @@ def gradient(img):
     Phi = np.rad2deg(np.arctan2(img_y, img_x))
     
     return E, Phi
+````
 
+Non maximums suppression
 
+````Python
 def non_max_supression(M, alpha):
     """
     Supression of non max pixels depending on the gradient of the pixel's neighbours
@@ -328,8 +376,32 @@ def non_max_supression(M, alpha):
                 EN[i, j] = 0
     
     return EN
+````
+
+Thresholding and gaps filling
+
+Choose thresholds like:
+
+````tex
+q_l=0.1  \max_{(u,v)} E_N (u,v) 
+````
+
+````tex
+q_h=0.3   \max_{(u,v)} E_N (u,v) 
+````
+
+Build images as:
+
+````tex
+E_{NL} (u,v)=E_N (u,v)\ge q_l \mbox{ and }E_N(u,v)< q_h
+````
+and 
+````tex
+E_{NH} (u,v)=E_N (umv)\ge q_h
+````
 
 
+````Python
 def thresholding_and_filling(EN):
     """
     Thresholding the image "eliminating" the pixels below a gigen minimun threshold, "keeping" tho ones over a

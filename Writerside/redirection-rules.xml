@@ -10,4 +10,16 @@
         <description>Created after removal of "This is the first topic" from Help Instance</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="18cf542b">
+        <description>Created after removal of "Computer Vision" from Menu</description>
+        <accepts>Computer-Vision1.html</accepts>
+    </rule>
+    <rule id="269b8d3f">
+        <description>Created after removal of "Chest X-ray" from Menu</description>
+        <accepts>Chest-X-ray.html</accepts>
+    </rule>
+    <rule id="4b38a177">
+        <description>Created after removal of "Home" from Menu</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
 </rules>

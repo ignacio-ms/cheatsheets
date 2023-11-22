@@ -8,19 +8,30 @@
 
     <toc-element topic="Home.topic">
         <toc-element topic="Computer-Science.md">
-            <toc-element topic="Bachelor-thesis.md"/>
-            <toc-element topic="RoboGrip.md"/>
-            <toc-element topic="Reinforced-Learning.md"/>
-            <toc-element topic="PCA.md"/>
-            <toc-element topic="Data-Mining.md"/>
             <toc-element topic="Machine-Learning.md"/>
+            <toc-element topic="Data-Mining.md">
+                <toc-element topic="Covid-prediction.md"/>
+            </toc-element>
             <toc-element topic="Genetic-Algorithms.md"/>
+            <toc-element topic="Reinforced-Learning.md"/>
             <toc-element topic="Computer-Vision-Menu.md">
                 <toc-element topic="Computer-Vision.md"/>
                 <toc-element topic="Chest-X-Ray.md"/>
                 <toc-element topic="Coin-Classifier.md"/>
                 <toc-element topic="Solar.md"/>
             </toc-element>
+            <toc-element topic="PCA.md"/>
+            <toc-element topic="Algoritms.md"/>
+            <toc-element topic="Maths.md">
+                <toc-element topic="Induction-and-Recurrency.md"/>
+                <toc-element topic="Combinatory.md"/>
+                <toc-element topic="BoolAlgebra.md"/>
+                <toc-element topic="Graphs.md"/>
+                <toc-element topic="Digraphs.md"/>
+            </toc-element>
+            <toc-element topic="Statistics.md"/>
+            <toc-element topic="Bachelor-thesis.md"/>
+            <toc-element topic="RoboGrip.md"/>
         </toc-element>
         <toc-element topic="Bioinformatics.md">
             <toc-element topic="Statistics-and-R.md">

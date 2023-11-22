@@ -25,8 +25,11 @@
         </primary>
 
         <secondary>
-            <title>Languages cheatsheets</title>
-            <a href="Cheatsheet.md" summary="R language cheatsheet"/>
+            <title>Tools</title>
+            <a href="https://github.com/ignacio-ms?tab=repositories" type="branch" summary="Repository management">GitHub</a>
+            <a href="https://www.overleaf.com/project" type="documents" summary="LaTeX">Overleaf</a>
+            <a href="https://www.ilovepdf.com/es" type="file" summary="PDFs tools">iLovePDF</a>
+            <a href="https://dauam-my.sharepoint.com/personal/ignacio_marcoss_estudiante_uam_es/_layouts/15/Doc.aspx?sourcedoc={c0ab271d-243b-4d62-b735-fc773fcbaf00}" type="library" summary="Class notes">OneNote</a>
         </secondary>
 
         <misc>

@@ -23,6 +23,7 @@
             <toc-element topic="PCA.md"/>
             <toc-element topic="Algoritms.md"/>
             <toc-element topic="Maths.md">
+                <toc-element topic="Algebra.md"/>
                 <toc-element topic="Induction-and-Recurrency.md"/>
                 <toc-element topic="Combinatory.md"/>
                 <toc-element topic="BoolAlgebra.md"/>

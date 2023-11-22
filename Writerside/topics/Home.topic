@@ -35,24 +35,20 @@
         <misc>
             <links>
                 <group>
-                    <title>Computer Science</title>
-                    <a href="Computer-Vision-Menu.md"/>
-                    <a href="Genetic-Algorithms.md"/>
-                    <a href="Machine-Learning.md"/>
-                    <a href="Data-Mining.md"/>
-                    <a href="PCA.md"/>
-                    <a href="Reinforced-Learning.md"/>
-                    <a href="RoboGrip.md"/>
+                    <title>Cheatsheets</title>
+                    <a href="https://www.markdownguide.org/cheat-sheet/" summary="Markdown">Markdown</a>
+                    <a href="https://quickref.me/latex" summary="LaTex">LaTeX</a>
+                    <a href="https://regexlearn.com/cheatsheet" summary="Regex">Regex</a>
+                    <a href="Cheatsheet.md">R</a>
+                    <a href="Computer-Vision.md">CV</a>
                 </group>
                 <group>
-                    <title>Bioinformatics</title>
-                    <a href="Structural-Bioinformatics.md"/>
-                    <a href="Sequence-Analysis.md"/>
-                    <a href="BigData.md"/>
-                    <a href="Algorithms-in-bioinformatics.md"/>
-                    <a href="Next-Generation-Sequencing.md"/>
-                    <a href="Molecular-Phylogenetics.md"/>
-                    <a href="Statistics-and-R.md"/>
+                    <title>Resources</title>
+                    <a href="https://chat.openai.com/?model=text-davinci-002-render-sha" summary="ChatGPT">ChatGPT</a>
+                    <a href="https://www.getmerlin.in/es/" summary="Merlin">Merlin</a>
+                    <a href="https://www.kaggle.com/" summary="Kaggle">Kaggle</a>
+                    <a href="https://paperswithcode.com/" summary="PapersWithCode">Papers with code</a>
+                    <a href="https://deepai.org/" summary="DeepAI">DeepAI</a>
                 </group>
             </links>
         </misc>

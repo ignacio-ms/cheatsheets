@@ -30,7 +30,10 @@
                 <toc-element topic="Graphs.md"/>
                 <toc-element topic="Digraphs.md"/>
             </toc-element>
-            <toc-element topic="Statistics.md"/>
+            <toc-element topic="Statistics.md">
+                <toc-element topic="Lessons.md"/>
+                <toc-element topic="Class-notes.md"/>
+            </toc-element>
             <toc-element topic="Bachelor-thesis.md"/>
             <toc-element topic="RoboGrip.md"/>
         </toc-element>

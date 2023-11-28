@@ -1,5 +1,7 @@
 # Maths
 
+[Calculus](Algebra.md)
+
 [Induction and Recurrency](Induction-and-Recurrency.md)
 
 [Combinatory](Combinatory.md)
